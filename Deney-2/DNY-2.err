@@ -1,0 +1,13 @@
+Warning[205] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 1 : Found directive in column 1. (list)
+Warning[205] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 2 : Found directive in column 1. (INCLUDE)
+Warning[205] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 3 : Found directive in column 1. (__config)
+Message[302] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 55 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 87 : Using default destination of 1 (file).
+Message[305] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 95 : Using default destination of 1 (file).
+Message[305] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 110 : Using default destination of 1 (file).
+Message[305] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 112 : Using default destination of 1 (file).
+Warning[205] C:\USERS\YSSAYDAM\DESKTOP\MIKRO\MIKRO(DöNEM)\DENEY-2\DNY-2.ASM 116 : Found directive in column 1. (END)

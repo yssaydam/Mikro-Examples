@@ -1,0 +1,50 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Tue Oct 30 10:50:53 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00009a
+     .config_2007_DNY-2.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000050      
+                            0x002007    0x002007      
+            79 out of 8453 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                       D1   0x00004a    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                       D2   0x00004c    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                DECREMENT   0x000043    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                    DELAY   0x000048    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                INCREMENT   0x00003e    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                INTERRUPT   0x000005    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                     LOOP   0x000037    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                    SETUP   0x000014    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                INTERRUPT   0x000005    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                    SETUP   0x000014    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                     LOOP   0x000037    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                INCREMENT   0x00003e    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                DECREMENT   0x000043    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                    DELAY   0x000048    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                       D1   0x00004a    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+                       D2   0x00004c    program     static C:\Users\yssaydam\Desktop\Mikro\Mikro(dönem)\Deney-2\DNY-2.ASM
+
+
